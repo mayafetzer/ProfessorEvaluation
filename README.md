@@ -8,6 +8,15 @@ Course: CHEG 472
 ## Purpose
 This repository holds the code to run an app that will allow students to rate a professor. The professor will then get a wordcloud and recommedations to improve their teaching style based on student feedback. 
 
+## Public App
+Here is the public app for the professor evaluation.
+https://profeval.streamlit.app/
+
+## Files in this repository
+ProfessorEval.py - the python code that analyzes a dataset and creates a professor evaluation app
+professor_feedback.csv - an example dataset that rates three imaginary calculus professors
+requirement.txt - the requirements file for this code
+
 ## Prerequisites
 
 ### Python
