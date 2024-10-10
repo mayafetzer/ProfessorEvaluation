@@ -14,7 +14,9 @@ https://profeval.streamlit.app/
 
 ## Files in this repository
 ProfessorEval.py - the python code that analyzes a dataset and creates a professor evaluation app
+
 professor_feedback.csv - an example dataset that rates three imaginary calculus professors
+
 requirement.txt - the requirements file for this code
 
 ## Prerequisites
